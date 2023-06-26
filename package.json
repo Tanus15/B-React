@@ -1,0 +1,31 @@
+{
+  "name": "p1",
+  "version": "1.0.0",
+  "description": "\"this is react from basics\"",
+  
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Tanus15/B-React.git"
+  },
+  "keywords": [
+    "react",
+    "html"
+  ],
+  "author": "tanu",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Tanus15/B-React/issues"
+  },
+  "homepage": "https://github.com/Tanus15/B-React#readme",
+  "devDependencies": {
+    "parcel": "^2.9.3",
+    "process": "^0.11.10"
+  },
+  "dependencies": {
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  }
+}
